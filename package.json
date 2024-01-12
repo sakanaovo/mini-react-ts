@@ -1,0 +1,48 @@
+{
+  "name": "mini-react",
+  "version": "1.0.0",
+  "description": "vite + vitest + pnpm + typescript  + react源码实现",
+  "main": "index.js",
+  "author": {
+    "name": "sakanaovo",
+    "email": "1575995206@qq.com",
+    "url": "https://github.com/sakanaovo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sakanaovo/mini-react-ts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TDD",
+    "test",
+    "vitest",
+    "monorepo",
+    "react",
+    "mini-reat",
+    "mini-reat-ts",
+    "typescript",
+    "javascript"
+  ],
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "browserslist": {
+    "production": [
+      "> 1%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "dependencies": {
+    "vitest": "^1.1.3"
+  }
+}
